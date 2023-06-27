@@ -518,7 +518,7 @@ Locales = {
         },
     },
     "fr-FR": {
-        "author": "@Hurdenn#2777",
+        "author": "@Shoqapique",
         "config": {
             "version": "version",
             "region": "region",
@@ -550,23 +550,23 @@ Locales = {
                 "set_prompt": "set value for"
             },
             "startup": {
-                "wait_for_rpc": "en attente du client rpc",
-                "discord_not_detected": "discord non détecté! lancement du jeu sans présence...",
-                "starting_valorant": "lancement de VALORANT",
-                "startup_successful": "lancement du programme réussi, la fenêtre sera cachée dans 5 secondes",
-                "waiting_for_presence": "en attente de la présence...",
-                "waiting_for_valorant": "en attente de VALORANT...",
-                "autodetect_region": "tentative de détection automatique de la région",
-                "autodetected_region": "région détectée automatiquement:",
+                "wait_for_rpc": "En attente du client RPC",
+                "discord_not_detected": "Discord non détecté ! Lancement du jeu sans présence...",
+                "starting_valorant": "Lancement de VALORANT...",
+                "startup_successful": "Lancement du programme réussi, la fenêtre sera cachée dans 5 secondes !",
+                "waiting_for_presence": "En attente de la présence...",
+                "waiting_for_valorant": "En attente de VALORANT...",
+                "autodetect_region": "Tentative de détection automatique de la région...",
+                "autodetected_region": "Région détectée automatiquement:",
             },
             "presence": {
-                "presence_running": "la présence est en cours!",
+                "presence_running": "La présence est chargée !",
             },
             "systray": {
                 "hiding_window": "dissimulation de la fenêtre",
             },
             "errors": {
-                "error_message": "le programme a rencontré une erreur: veuillez créer une erreur avec le retour ci-dessous si ce problème persiste",
+                "error_message": "Le programme a rencontré une erreur: veuillez créer une erreur avec le retour ci-dessous si ce problème persiste",
                 "exit": "appuyez sur entrer pour quitter...",
             },
             "version_checker": {
